@@ -7,5 +7,5 @@ import (
 
 func main() {
 	fmt.Println("Ini adalah fitur baru login")
-	register.Register()
+	register.Register("Mantap")
 }

@@ -2,6 +2,6 @@ package register
 
 import "fmt"
 
-func Register() {
-	fmt.Println("Ini adalah fitur Register")
+func Register(ok string) {
+	fmt.Println("Ini adalah fitur Register " + ok)
 }
